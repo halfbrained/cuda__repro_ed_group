@@ -1,0 +1,10 @@
+[info]
+title=Repro: ed_group
+desc=(Fill the description)
+type=cudatext-plugin
+subdir=cuda__repro_ed_group
+homepage=https://github.com/halfbrained/cuda__repro_ed_group
+
+[item1]
+section=events
+events=on_open
